@@ -14,9 +14,9 @@
 
 ➖
 
-📖 Research materials
+📖 Research materials 📖
 
-*
+
 
 🔐 Proton Drive: [https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO](https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO)
 
@@ -26,9 +26,9 @@
 
 ➖
 
-📢 Discussions
+📢 Discussions 📢
 
-*
+
 
 📌 GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport/discussions/1](https://github.com/CryptoXside/SolscanAPI_BugReport/discussions/1)
 
