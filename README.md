@@ -36,6 +36,6 @@ GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport](https://github.com
   [https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report](https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report)
 
 
-Security Specialist, Vulnerability Researcher
+Security Specialist, Vulnerability Researcher.
 Ramil [CryptoXside]
 眯眼沙王 🐉 弥勒已来
