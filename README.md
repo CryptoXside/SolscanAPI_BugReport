@@ -4,7 +4,7 @@
 
 📝 A story about transparency in decentralized blockchain technologies and more...
 
-  
+  ➖
 
 📋 SolscanAPI_BugReport_Eng.pdf:
 [https://github.com/CryptoXside/SolscanAPI_BugReport/blob/main/SolscanAPI_BugReport_GitHub_Eng.pdf](https://github.com/CryptoXside/SolscanAPI_BugReport/blob/main/SolscanAPI_BugReport_GitHub_Eng.pdf)
@@ -12,7 +12,7 @@
 📋 SolscanAPI_BugReport_Rus.pdf:
 [https://github.com/CryptoXside/SolscanAPI_BugReport/blob/main/SolscanAPI_BugReport_GitHub_Rus.pdf](https://github.com/CryptoXside/SolscanAPI_BugReport/blob/main/SolscanAPI_BugReport_GitHub_Rus.pdf)
 
-  
+  ➖
 
 📖 Research materials
 Proton Drive: [https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO](https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO)
@@ -21,7 +21,7 @@ Google Drive: [https://drive.google.com/drive/folders/1PTsXBMwA5grbkbKl7PQjh-Rcx
 
 GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport](https://github.com/CryptoXside/SolscanAPI_BugReport)
 
-  
+  ➖
 
 📌 Discussion in GitHub:
   [https://github.com/CryptoXside/SolscanAPI_BugReport/discussions/1](https://github.com/CryptoXside/SolscanAPI_BugReport/discussions/1)
@@ -38,7 +38,7 @@ GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport](https://github.com
 📌 Discussion in Raddle:
   [https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report](https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report)
 
-  
+  ➖
 
 Security Specialist, Vulnerability Researcher.
 Ramil [CryptoXside]
