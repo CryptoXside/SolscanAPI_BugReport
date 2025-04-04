@@ -17,12 +17,13 @@
 📖 Research materials 📖
 
 
-
-🔐 Proton Drive: [https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO](https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO)
+🔐 GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport](https://github.com/CryptoXside/SolscanAPI_BugReport)
 
 🔐 Google Drive: [https://drive.google.com/drive/folders/1PTsXBMwA5grbkbKl7PQjh-Rcxg49U4Hc](https://drive.google.com/drive/folders/1PTsXBMwA5grbkbKl7PQjh-Rcxg49U4Hc)
 
-🔐 GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport](https://github.com/CryptoXside/SolscanAPI_BugReport)
+🔐 Proton Drive: [https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO](https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO)
+
+(Сложный пароль был специально утерян для защиты данных от фальсификаций)
 
 ➖
 
