@@ -21,9 +21,7 @@
 
 🔐 Google Drive: [https://drive.google.com/drive/folders/1PTsXBMwA5grbkbKl7PQjh-Rcxg49U4Hc](https://drive.google.com/drive/folders/1PTsXBMwA5grbkbKl7PQjh-Rcxg49U4Hc)
 
-🔐 Proton Drive: [https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO](https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO)
-
-(Сложный пароль был специально утерян для защиты данных от фальсификаций)
+🔐 Proton Drive: [https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO](https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO) (Сложный пароль был специально утерян для защиты данных от фальсификаций)
 
 ➖
 
