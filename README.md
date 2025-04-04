@@ -37,7 +37,7 @@
   
 📌 Mastodon: [https://mastodon.social/@CryptoXside/114265873723735000](https://mastodon.social/@CryptoXside/114265873723735000)
   
-📌 Raddle: [https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report](https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report) (Banned. [Reason = Spam. Expires = Never](https://github.com/CryptoXside/SolscanAPI_BugReport/tree/main/Raddle))
+📌 Raddle: [https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report](https://raddle.me/f/Tech/205351/solscan-api-vulnerability-report) (Banned. [Reason = Spam & Expires = Never](https://github.com/CryptoXside/SolscanAPI_BugReport/tree/main/Raddle))
 
 ➖
 
