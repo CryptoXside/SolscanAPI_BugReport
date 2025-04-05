@@ -15,7 +15,7 @@
 ➖
 
 📹 Video-Screencast Proofs:
-[https://drive.google.com/file/d/15USIe71fIG2HxZZYhH99kHivrppWh8Wp/view?usp=sharing](https://drive.google.com/file/d/15USIe71fIG2HxZZYhH99kHivrppWh8Wp/view?usp=sharing)
+[https://www.youtube.com/watch?v=V2n8bGVC0aM](https://www.youtube.com/watch?v=V2n8bGVC0aM)
 
 ➖
 
@@ -31,7 +31,6 @@
 ➖
 
 📢 Discussions 📢
-
 
 
 📌 GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport/discussions/1](https://github.com/CryptoXside/SolscanAPI_BugReport/discussions/1)
