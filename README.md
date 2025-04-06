@@ -66,7 +66,7 @@
 
 ➖
 
-*Security Specialist, Vulnerability Researcher*
+*Security Specialist & Vulnerability Researcher*
 
 Ramil [CryptoXside]
 
