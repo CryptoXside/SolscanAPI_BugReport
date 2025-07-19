@@ -22,12 +22,23 @@
 
 📖 **Research materials** 📖
 
-
 🔐 GitHub: [https://github.com/CryptoXside/SolscanAPI_BugReport](https://github.com/CryptoXside/SolscanAPI_BugReport)
 
 🔐 Google Drive: [https://drive.google.com/drive/folders/1PTsXBMwA5grbkbKl7PQjh-Rcxg49U4Hc](https://drive.google.com/drive/folders/1PTsXBMwA5grbkbKl7PQjh-Rcxg49U4Hc)
 
 🔐 Proton Drive: [https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO](https://drive.proton.me/urls/RA6PEQRZJW#xh6grrxk3RYO) (Сложный пароль был специально утерян для защиты данных от фальсификаций)
+
+➖
+
+📅 GitHub clone repository date: 18.07.2025
+
+🔐 **Google Drive**: [https://drive.google.com/file/d/1DL0JrMMinkmtRaH0XLEfk5X8riMr7o5g/view?usp=sharing](https://drive.google.com/file/d/1DL0JrMMinkmtRaH0XLEfk5X8riMr7o5g/view?usp=sharing)
+
+🔐 **Proton Drive**: [https://drive.proton.me/urls/KW2EGEHGKG#FQZPAuy9UD4H](https://drive.proton.me/urls/KW2EGEHGKG#FQZPAuy9UD4H)
+
+🔐 **Mega Drive**: [https://mega.nz/file/pRRCDaJI#uKZBXB-yE0jRBl7XGr9rJqs_EabE_DzOnLINvcZlmcE](https://mega.nz/file/pRRCDaJI#uKZBXB-yE0jRBl7XGr9rJqs_EabE_DzOnLINvcZlmcE)
+
+🔐 **Yandex Drive**: [https://disk.yandex.ru/d/LrP4k-SiZieNng](https://disk.yandex.ru/d/LrP4k-SiZieNng)
 
 ➖
 
